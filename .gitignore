@@ -1,0 +1,8 @@
+# Excluir archivos JSON
+*.json
+
+# Excluir archivos de texto
+*.txt
+
+# Excluir archivos CSV
+*.csv
