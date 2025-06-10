@@ -1,27 +1,48 @@
 # MA2006B.601-Gpo.3-
-Reto: El proyecto busca implementar un flujo seguro y controlado para el envío, validación y registro de mensajes electrónicos dentro de la organización. A través de un sistema de autenticación robusto, cifrado de mensajes y firma digital, se garantiza la integridad, confidencialidad y trazabilidad de las comunicaciones. Además, se automatiza el proceso de notificación y registro de logs en un repositorio centralizado, permitiendo una auditoría completa y el cumplimiento de estándares de seguridad de la información
+# Reto
 
-📌 Flujo del proceso
-# Login al sistema
+El proyecto busca implementar un flujo seguro y controlado para el envío, validación y registro de mensajes electrónicos dentro de la organización.  
+A través de un sistema de autenticación robusto, cifrado de mensajes y firma digital, se garantiza la integridad, confidencialidad y trazabilidad de las comunicaciones.  
+Además, se automatiza el proceso de notificación y registro de logs en un repositorio centralizado, permitiendo una auditoría completa y el cumplimiento de estándares de seguridad de la información.
+
+---
+
+# 📌 Flujo del proceso
+
+## 1️⃣ Login al sistema
+
 → El usuario se autentica en el sistema.
-# Composición y envío del mensaje
-→ El usuario envía un mensaje:
-Puede ser propio (escrito por él) o basado en una plantilla.
-El mensaje se encripta.
-Se firma digitalmente.
-# Recepción del mensaje
+
+## 2️⃣ Composición y envío del mensaje
+
+→ El usuario envía un mensaje:  
+- Puede ser propio (escrito por él) o basado en una plantilla.  
+- El mensaje se encripta.  
+- Se firma digitalmente.
+
+## 3️⃣ Recepción del mensaje
+
 → El destinatario recibe el mensaje.
-# Desencriptado y verificación de la firma
-→ El sistema o la persona destinataria:
-Desencripta el mensaje.
-Verifica la firma digital.
-# Proceso de aprobación
-→ El destinatario:
-Aprueba o rechaza el mensaje.
-# Notificación al remitente
+
+## 4️⃣ Desencriptado y verificación de la firma
+
+→ El sistema o la persona destinataria:  
+- Desencripta el mensaje.  
+- Verifica la firma digital.
+
+## 5️⃣ Proceso de aprobación
+
+→ El destinatario:  
+- Aprueba o rechaza el mensaje.
+
+## 6️⃣ Notificación al remitente
+
 → El sistema notifica al remitente si su mensaje fue aprobado o rechazado.
-# Registro en Drive
+
+## 7️⃣ Registro en Drive
+
 → Se genera un log del proceso (incluyendo la acción final y metadatos relevantes) y se guarda en un repositorio (ej: Google Drive / OneDrive) para auditoría y control.
+
 
 # 🛠️ Requisitos del Sistema
 
