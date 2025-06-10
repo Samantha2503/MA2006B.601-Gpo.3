@@ -1,4 +1,4 @@
-# MA2006B.601-Gpo.3-
+# MA2006B.601-Gpo.3
 # Reto
 
 El proyecto busca implementar un flujo seguro y controlado para el envío, validación y registro de mensajes electrónicos dentro de la organización.  
