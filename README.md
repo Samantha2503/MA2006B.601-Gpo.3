@@ -74,3 +74,4 @@ Etapa 1: https://docs.google.com/document/d/1V26wAaVDaUzoG_BlFtpPhMpQAJiNLLlnVoU
 
 Canva: https://www.canva.com/design/DAGpuai57jQ/Hn3cE5AP3Mz-h6pgV1AOLg/view?utm_content=DAGpuai57jQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h374224b224
 
+_Dado que se tienen enlaces en el código por medio de los puertos SMTP 587, existen 2 archivos los cuales no se encuentran en el repositorio dada la sensibilidad de información y credenciales que estos poseen._
