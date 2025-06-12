@@ -1,4 +1,5 @@
 # MA2006B.601-Gpo.3
+Nota: Test6, contiene las versiones finales del código.
 # Reto
 
 El proyecto busca implementar un flujo seguro y controlado para el envío, validación y registro de mensajes electrónicos dentro de la organización.  
@@ -72,3 +73,4 @@ _Para gestión de claves públicas y privadas._
 Etapa 1: https://docs.google.com/document/d/1V26wAaVDaUzoG_BlFtpPhMpQAJiNLLlnVoUiexk2xxQ/edit?usp=sharing
 
 Canva: https://www.canva.com/design/DAGpuai57jQ/Hn3cE5AP3Mz-h6pgV1AOLg/view?utm_content=DAGpuai57jQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h374224b224
+
